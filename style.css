@@ -1,0 +1,164 @@
+body { 
+	background-color: #ede0d4;
+	color: rgb(39, 62, 68);
+	font-family: 'Truculenta', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+img {
+	object-fit: cover;
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+}
+h1 {
+	color: #023047;
+	font-family: Arial;
+	font-weight: 500px bold;
+	font-size: 50px;
+}
+
+.container { 
+    width: 700px;
+    margin: 0px auto;
+}
+
+@media(max-width: 720px) {
+    .container {
+        width: 400px;
+    }
+}
+
+.presentation{  
+	color: #1d3557;
+	font-family: Arial;
+	font-weight: 500;
+	font-size: 25px;
+	background: #fec5bb;
+    padding: 80px;
+    height: auto;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+    border-radius: 50px;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 10px;	
+}
+
+.button {
+    background: #fec5bb;
+    text-align: center;
+    border-radius: 40px;
+    padding: 15px 60px;
+    color: white;
+    width: 120px;
+    box-shadow: 0px 10px 10px;
+}
+
+.button:hover {
+    background: white;
+    cursor; pointer-events;
+    color: #fec5bb; 
+}
+
+.busidev{
+	color: rgb(88, 24, 69);
+	font-family: Arial;
+	font-weight: 200;
+	font-size: 20px;
+	background: white;
+    padding: 80px;
+    width: 700px;
+    height: auto;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+    border-radius: 10px;
+    border: 1px solid none;
+    text-align: center;
+    margin-bottom: 20px;	
+}
+
+.voyages {
+	color: rgb(39, 62, 68);
+	font-family: 'Truculenta', sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	background: #f8edeb;
+    padding: 80px;
+    height: auto;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+    border-radius: 10px;
+    border: 1px solid none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.mesambi {
+	color: rgb(39, 62, 68);
+	font-family: 'Truculenta', sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	background: #f8edeb;
+    padding: 80px;
+    height: auto;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+    border-radius: 10px;
+    border: 1px solid none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.lesport {
+	color: rgb(39, 62, 68);
+	font-family: 'Truculenta', sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	background: #f8edeb;
+    padding: 80px;
+    height: auto;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+    border-radius: 10px;
+    border: 1px solid none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.followme {
+	color: rgb(39, 62, 68);
+	font-family: 'Truculenta', sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	background: #f8edeb;
+    padding: 80px;
+    height: auto;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.10);
+    border-radius: 10px;
+    border: 1px solid none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logolist {
+    display: flex;
+    justify-content: space-around;
+}
+
+.logolist i{
+    font-size: 50px;
+    cursor; pointer-events; 
+    color: #fec5bb; 
+}
+
+.logolist i:hover {
+  color: white;
+  text-decoration: none;
+}
+
+li{
+	list-style: none;
+}
+
+
+
+  
+
+
